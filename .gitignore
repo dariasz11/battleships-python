@@ -1,0 +1,29 @@
+# PyCharm
+.idea/
+
+# Python virtual environments
+.venv/
+venv/
+env/
+
+# Python cache
+__pycache__/
+**/__pycache__/
+*.py[cod]
+
+# Build and packaging output
+build/
+dist/
+*.egg-info/
+
+# Test and coverage files
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Operating system files
+Thumbs.db
+.DS_Store
+
+# Logs
+*.log
