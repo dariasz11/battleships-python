@@ -1,8 +1,8 @@
-# Battleships â€” Python Desktop Game
+# Battleships — Python Desktop Game
 
 A single-player implementation of the classic Battleships strategy game, developed in Python with a graphical interface built using Tkinter.
 
-The player places a fleet on a 10 Ã— 10 board and takes turns firing at a computer-controlled opponent. The first side to sink the entire opposing fleet wins.
+The player places a fleet on a 10 × 10 board and takes turns firing at a computer-controlled opponent. The first side to sink the entire opposing fleet wins.
 
 <p align="center">
   <img src="docs/images/start_screen.png" alt="Battleships start screen" width="900">
@@ -50,9 +50,9 @@ Use **Rotate** to change orientation and **Reset fleet** to clear all placements
 
 Select a cell on the opponent's board to fire. The computer then performs its own attack after a short delay.
 
-- Red `Ã—` â€” hit
-- Light `â€¢` â€” miss
-- Dark red cells â€” sunk ship
+- Red `×` — hit
+- Light `•` — miss
+- Dark red cells — sunk ship
 
 ### 3. Win the game
 
